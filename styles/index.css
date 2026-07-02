@@ -140,3 +140,26 @@ main section{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06) ;
     border-radius: 5px;
 }
+/* resume  */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume{
+    justify-items: center;
+}
+.resume-column {
+    flex: 1; 
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.btn2{
+    margin-top: 50px;
+    
+}
